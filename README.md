@@ -8,6 +8,6 @@ Need some mock data to test your app? Mockaroo lets you generate up to 1,000 row
 
 https://mockaroo.com/
 
-# sourc
+# source
 
 https://morioh.com/p/ed15b895107f?f=5c22e47440738156a7078a19&fbclid=IwAR2WqWzUJdi_K6RMFfsG-nfjUKdB3jM3mtdBG5AJ1m07KfZlZJvxD360Vs4
